@@ -10,6 +10,8 @@ I'm a Student with a passion for Machine Learning, Data Science and Development.
 - 🌱 I’m currently in 3rd year, studying Computer Science Engineering with specialisation in Data Science
 - ⚡ Fun fact about me: I have a love-hate relationship with coding. I absolutely love diving into new projects and solving complex problems, but I can't stand it when the code doesn't work the way I want it to. The frustration of debugging for hours is all too real! 😄
 
+[![An image of @lily02092003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lily02092003)](https://holopin.io/@lily02092003)
+
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
