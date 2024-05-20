@@ -15,14 +15,16 @@ I'm a Student with a passion for Machine Learning, Data Science and Development.
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-05122A?style=flat&logo=amazonaws) 
 ![AWS QuickSight](https://img.shields.io/badge/-AWS%20QuickSight-05122A?style=flat&logo=amazonaws) 
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 
 
