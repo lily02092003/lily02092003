@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there, I'm SRIJA! 👋
 
-<!--
-**lily02092003/lily02092003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/lily02092003/lily02092003/assets/108693415/b228d754-af52-44dd-93ac-3432822ee525)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a Student with a passion for Machine Learning, Data Science and Development. I find joy in immersing myself in music and discovering the unique vibes of different cities. My curiosity extends beyond geographical borders—I'm constantly driven by a passion to learn and explore emerging technologies.
+
+- 🌱 I’m currently in 3rd year, studying Computer Science Engineering with specialisation in Data Science
+- ⚡ Fun fact about me: I have a love-hate relationship with coding. I absolutely love diving into new projects and solving complex problems, but I can't stand it when the code doesn't work the way I want it to. The frustration of debugging for hours is all too real! 😄
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-05122A?style=flat&logo=amazonaws) 
+![AWS QuickSight](https://img.shields.io/badge/-AWS%20QuickSight-05122A?style=flat&logo=amazonaws) 
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+
+
+## 📈 GitHub Stats
+
+![Srija's GitHub stats](https://github-readme-stats.vercel.app/api?username=lily02092003&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lily02092003&layout=compact&hide_border=true)
+
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/srijachakraborty123)
+[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:srijachakraborty123@gmail.com)
