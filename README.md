@@ -32,5 +32,5 @@ I'm a Student with a passion for Machine Learning, Data Science and Development.
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/srijachakraborty123)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/srija-chakraborty123)
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:srijachakraborty123@gmail.com)
