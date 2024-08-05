@@ -30,7 +30,7 @@ I'm a Student with a passion for Machine Learning, Data Science and Development.
 
 ## 📈 GitHub Stats
 
-![Srija's GitHub stats](https://github-readme-stats.vercel.app/api?username=lily02092003&show_icons=true&hide_border=true)
+![Srija's GitHub stats](https://github-readme-stats.vercel.app/api?username=lily02092003&show_icons=true&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lily02092003&layout=compact&hide_border=true)
 
 
