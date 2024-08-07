@@ -27,6 +27,8 @@ I'm a Student with a passion for Machine Learning, Data Science and Development.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 
+## LeetCode Stats
+<h2> 📈 &nbsp;LeetCode Stats! <img src = "https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width = 35px></h2>
 
 ## 📈 GitHub Stats
 
@@ -38,3 +40,8 @@ I'm a Student with a passion for Machine Learning, Data Science and Development.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/srija-chakraborty123)
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:srijachakraborty123@gmail.com)
+
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Thanks%20For%20Visiting&section=footer"/>
+</p>
