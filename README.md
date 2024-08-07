@@ -44,5 +44,5 @@ Hey! I am Srija! I have a passion for Machine Learning, Data Science and Develop
 
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Thanks%20For%20Visiting&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Visit%20Again!&section=footer"/>
 </p>
