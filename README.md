@@ -6,7 +6,7 @@
 
 Hey! I am Srija! I have a passion for Machine Learning, Data Science and Development. I find joy in immersing myself in music and discovering the unique vibes of different cities. My curiosity extends beyond geographical borders—I'm constantly driven by a passion to learn and explore emerging technologies.
 
-- 🌱 I’m currently in 3rd year, studying Computer Science Engineering with specialisation in Data Science
+- 🌱 I’m currently in my final year, studying Computer Science Engineering with specialisation in Data Science
 - ⚡ Fun fact about me: I have a love-hate relationship with coding. I absolutely love diving into new projects and solving complex problems, but I can't stand it when the code doesn't work the way I want it to. The frustration of debugging for hours is all too real! 😄
 
 [![An image of @lily02092003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lily02092003)](https://holopin.io/@lily02092003)
